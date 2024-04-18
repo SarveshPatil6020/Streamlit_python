@@ -49,8 +49,7 @@ class MultiApp:
         if app == 'Home':
             your.app()
         
-        # if app == 'individual':
-            # individual.app()
+    
         if app == 'Subject':
             subject.app()
         

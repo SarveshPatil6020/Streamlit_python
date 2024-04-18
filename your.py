@@ -1,11 +1,8 @@
 import streamlit as st
 import os
-import pickle
-from pathlib import Path
-from firebase_admin import firestore
+
 
 from streamlit_option_menu import option_menu
-import streamlit_authenticator as stauth
 import matplotlib.pyplot as plt 
 import pandas as pd 
 from io import BytesIO
